@@ -7,7 +7,6 @@ Also written Omer Saleem. I lead a frontend team on an Angular product and run m
 ## Start here
 
 - **[ClaudeTwin](https://github.com/deadlydiamond/claudetwin)**: one memory for your company and personal Claude accounts, so work continues where the other account left off.
-- **[TwinBridge](https://github.com/deadlydiamond/twinbridge)**: handoffs between two Claude accounts from a server you run yourself.
 - **[Claude Motions](https://www.omerbinsaleem.com/guides/launch-film-from-one-file/)**: the prompt guide behind a launch film rendered from one HTML file, no editor involved.
 - **[One hack a day](https://www.omerbinsaleem.com/hacks/)**: what a new AI feature lets you build, the steps, and the prompt to copy.
 
